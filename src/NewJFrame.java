@@ -103,7 +103,7 @@ public class NewJFrame extends javax.swing.JFrame {
                 cobalagiActionPerformed(evt);
             }
         });
-        getContentPane().add(cobalagi, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 240, -1, -1));
+        getContentPane().add(cobalagi, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 230, -1, -1));
 
         jLabel5.setText("Tinggi");
         getContentPane().add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 120, -1, -1));
@@ -177,7 +177,7 @@ dispose();        // TODO add your handling code here:
 inputberatbadan.setText("");
 inputnama.setText("");
 inputtinggi.setText("");
-hasil.setText("");// TODO add your handling code here:
+ideal.setText("");// TODO add your handling code here:
     }//GEN-LAST:event_cobalagiActionPerformed
 
     /**
